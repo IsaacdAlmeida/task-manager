@@ -19,5 +19,5 @@ public class TarefaDTO {
     private StatusTarefa status;
     private LocalDate dataInicio;
     private LocalDate dataFinal;
-    private UsuarioDTO usuario;
+    private UsuarioDTO usuario = new UsuarioDTO();
 }

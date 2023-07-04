@@ -1,8 +1,6 @@
 package com.taskmanager.mapper;
 
-import com.taskmanager.dto.TarefaDTO;
 import com.taskmanager.dto.TarefaSaveDTO;
-import com.taskmanager.dto.UsuarioDTO;
 import com.taskmanager.model.Tarefa;
 import com.taskmanager.model.Usuario;
 
